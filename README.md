@@ -11,8 +11,6 @@ Welcome to my GitHub! I’m passionate about building thoughtful, accessible, an
 ⚙️ Tools:         Git · GitHub · Azure DevOps · Postman · VS Code  
 ☁️ Cloud/Infra:   Firebase · AWS (basic)
 
----
-
 ## 🚧 Projects  
 _(Work In Progress)_
 
@@ -26,7 +24,6 @@ _(Work In Progress)_
 | [Project 4](#)                  | Remote Access VPN Setup      | Palo Alto 220 Firewall |
 | Project 5                       | SOHO Firewall Configuration  | Palo Alto 220 Firewall |
 
----
 
 ## 🔍 What I’m Exploring
 
@@ -36,7 +33,6 @@ _(Work In Progress)_
 - 🎙️ STEM storytelling & podcast branding  
 - 📖 Realistic flippable eBooks using Framer components
 
----
 
 ## 📚 Featured Work
 
@@ -45,7 +41,7 @@ _(Work In Progress)_
 - [🛰️ Hackathon Demo: Mission Companion AI](#)  
 - [🧬 Digital Zine: Future of Food](#)
 
----
+
 
 ## 🗂️ Connect with Me
 
@@ -54,7 +50,7 @@ _(Work In Progress)_
 - 🐦 Twitter/X: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
 - 📫 Email: youremail@example.com  
 
----
+
 
 _Thanks for visiting! Let’s build something meaningful together._ ✨
 
