@@ -4,7 +4,6 @@ Welcome to my GitHub! I’m passionate about building thoughtful, accessible, an
 
 ## 🧰 Toolbox
 
-```bash
 💻 Languages:     JavaScript · Python · HTML/CSS · SQL  
 🛠️ Frameworks:    React · Node.js · Express · TailwindCSS  
 🎨 Design:        Figma · Miro · Framer · Webflow · Adobe XD  
