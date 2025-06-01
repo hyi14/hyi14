@@ -49,4 +49,4 @@
 [LinkedIn](https://www.linkedin.com/in/hhyi/)
 
 
-Thanks for visiting! Let’s build something meaningful together.🫧
+Thanks for visiting! Let’s build something impactful together.🫧
