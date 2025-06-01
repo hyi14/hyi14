@@ -1,6 +1,6 @@
 # 👋 Cheers, I'm Hannah.
 
-**Cybersecurity Analyst, Product Manager, Designer. Motivated to combine AI with Security and Education. Welcome to my GitHub!**
+**Cybersecurity Analyst, Product Manager, Designer. Motivated to combine AI with Security & Education. Welcome to my GitHub!**
 
 <br>
 
