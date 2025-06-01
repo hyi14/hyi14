@@ -38,7 +38,7 @@ Cybersecurity Analyst, Product Manager, Designer. Motivated to combine AI with S
 | [Application Testing](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W9-Testing/README.md)                       | Functional Testing, Regression Testing, Vulnerability Remediation  | Selenium IDE, Pytest, Python, Terminal |
 
 
-## Connect with Me
+## Let's Connect!
 [Website](https://playgroundthe.com/)
 <br>
 [LinkedIn](https://www.linkedin.com/in/hhyi/)
