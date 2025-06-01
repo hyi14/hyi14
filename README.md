@@ -20,7 +20,7 @@ Cybersecurity Analyst, Product Manager, Designer. Motivated in combing AIxSecuri
   <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" style="display: inline-block;"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="42" height="42" /></a>
 </p>
 
 ## 🚧 Projects  
