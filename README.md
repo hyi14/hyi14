@@ -28,7 +28,7 @@ Cybersecurity Analyst, Product Manager, Designer. Motivated to combine AI with S
 
 | Project                         | Skill                        | Tools                   |
 |---------------------------------|------------------------------|-------------------------|
-| [MiTM Attack](#)                  | ARP Spoofing                | Bettercap, Wireshark |
+| [MiTM Attack](#)                  | ARP Spoofing, Network Traffic Interception, Packet Analysis                | Bettercap, Wireshark |
 | [Cryptography & HTTPS Setup](#)   | Implementing SSL/TLS, Certificate Generation, Encrypted Web Traffic | OpenSSL, WSL, Docker, Nginx, Browser Dev Tools |
 | [Logging](#)                  | 	Log Management, Monitoring Login Failures, Secure Event Logging                | Loggly, Monolog, Docker, PHP, .env files |
 | [Session Management & Access Control](#)                  | Secure Authentication & Authorization, PHP Sessions vs. Cookies      | PHP, Sessions, Docker, Browser Dev Tools |
