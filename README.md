@@ -1,8 +1,7 @@
 # 👋 Cheers, I'm Hannah.
 
 Cybersecurity Analyst, Product Manager, Designer. Motivated in combing AIxSecurity and AIxEducation. Welcome to my GitHub!
-
-
+<p></p>
 ## Toolbox
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -24,7 +23,7 @@ Cybersecurity Analyst, Product Manager, Designer. Motivated in combing AIxSecuri
   <a target="_blank" href="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" style="display: inline-block;"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="42" height="42" /></a>
 </p>
 
-
+<p></p>
 ## Projects  
 ### Cybersecurity
 
@@ -39,7 +38,7 @@ Cybersecurity Analyst, Product Manager, Designer. Motivated in combing AIxSecuri
 | [Bug Bounty & System Hardening](#)                       | Vulnerability Discovery, CWE Identification, System Hardening  | CWE Database, Docker, DFD, Code Inspection |
 | [Application Testing](#)                       | Functional Testing, Regression Testing, Vulnerability Remediation  | Selenium IDE, Pytest, Python, Terminal |
 
-
+<p></p>
 ## Connect with Me
 
 Website
