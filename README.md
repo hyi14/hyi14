@@ -1,6 +1,7 @@
 # 👋 Cheers, I'm Hannah.
 
 Cybersecurity Analyst, Product Manager, Designer. Motivated to combine AI with Security and Education. Welcome to my GitHub!
+<br>
 
 ## Toolbox
 <p>
@@ -23,6 +24,8 @@ Cybersecurity Analyst, Product Manager, Designer. Motivated to combine AI with S
   <a target="_blank" href="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" style="display: inline-block;"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="30" height="30" /></a>
 </p>
 
+<br>
+
 ## Projects  
 ### Cybersecurity
 
@@ -37,6 +40,7 @@ Cybersecurity Analyst, Product Manager, Designer. Motivated to combine AI with S
 | [Bug Bounty & System Hardening](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W8-Bug-Bounty/README.md)                       | Vulnerability Discovery, CWE Identification, System Hardening  | CWE Database, Docker, DFD, Code Inspection |
 | [Application Testing](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W9-Testing/README.md)                       | Functional Testing, Regression Testing, Vulnerability Remediation  | Selenium IDE, Pytest, Python, Terminal |
 
+<br>
 
 ## Let's Connect!
 [Website](https://playgroundthe.com/)
