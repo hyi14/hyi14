@@ -44,4 +44,4 @@ Cybersecurity Analyst, Product Manager, Designer. Motivated to combine AI with S
 [LinkedIn](https://www.linkedin.com/in/hhyi/)
 
 
-Thanks for visiting! Let’s build something meaningful together.🛝
+Thanks for visiting! Let’s build something meaningful together.🫧
