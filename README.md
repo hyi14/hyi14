@@ -1,4 +1,4 @@
-# 👋 Cheers, I'm Hannah
+# 👋 Cheers, I'm Hannah.
 
 Welcome to my GitHub! I’m passionate about building thoughtful, accessible, and impactful technology. Whether it’s through human-centered design, secure systems, or creative experimentation—I love projects that blend function, ethics, and innovation.
 
