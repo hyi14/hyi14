@@ -1,56 +1,46 @@
 # 👋 Cheers, I'm Hannah.
 
-Welcome to my GitHub! I’m passionate about building thoughtful, accessible, and impactful technology. Whether it’s through human-centered design, secure systems, or creative experimentation—I love projects that blend function, ethics, and innovation.
+Cybersecurity Analyst, Product Manager, Designer. Motivated in combing AIxSecurity and AIxEducation. Welcome to my GitHub!
 
 ## 🧰 Toolbox
-
-💻 Languages:     JavaScript · Python · HTML/CSS · SQL  
-🛠️ Frameworks:    React · Node.js · Express · TailwindCSS  
-🎨 Design:        Figma · Miro · Framer · Webflow · Adobe XD  
-🧪 Testing:       Jest · Cypress · Pytest  
-⚙️ Tools:         Git · GitHub · Azure DevOps · Postman · VS Code  
-☁️ Cloud/Infra:   Firebase · AWS (basic)
+<p>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="42" height="42" /></a>
+</p>
 
 ## 🚧 Projects  
-_(Work In Progress)_
-
 ### 🔐 Cybersecurity
 
 | Project                         | Skill                        | Tools                   |
 |---------------------------------|------------------------------|-------------------------|
-| [Project 1](#)                  | Factory Reset                | Palo Alto 220 Firewall |
-| [Project 2](#)                  | Firewall Update              | Palo Alto 220 Firewall |
-| [Project 3](#)                  | URL Filtering                | Palo Alto 220 Firewall |
-| [Project 4](#)                  | Remote Access VPN Setup      | Palo Alto 220 Firewall |
-| Project 5                       | SOHO Firewall Configuration  | Palo Alto 220 Firewall |
-
-
-## 🔍 What I’m Exploring
-
-- 🤖 Generative AI & responsible design  
-- 🛡️ Cyber risk mitigation in legacy systems  
-- 🚀 Ethical UX for space technologies  
-- 🎙️ STEM storytelling & podcast branding  
-- 📖 Realistic flippable eBooks using Framer components
-
-
-## 📚 Featured Work
-
-- [🧾 Policy Brief: AI Deepfakes & Corporate Fraud](#)  
-- [📊 UX Case Study: Nowhere Bakery](#)  
-- [🛰️ Hackathon Demo: Mission Companion AI](#)  
-- [🧬 Digital Zine: Future of Food](#)
-
-
+| [MiTM Attack](#)                  | ARP Spoofing                | Bettercap, Wireshark |
+| [Cryptography & HTTPS Setup](#)   | Implementing SSL/TLS, Certificate Generation, Encrypted Web Traffic | OpenSSL, WSL, Docker, Nginx, Browser Dev Tools |
+| [Logging](#)                  | 	Log Management, Monitoring Login Failures, Secure Event Logging                | Loggly, Monolog, Docker, PHP, .env files |
+| [Session Management & Access Control](#)                  | Secure Authentication & Authorization, PHP Sessions vs. Cookies      | PHP, Sessions, Docker, Browser Dev Tools |
+| [Exploitation](#)                       | Payload Crafting, Reverse Shells, Offensive Security Tactics  | Metasploit, msfvenom, Docker, PHP |
+| [Injection & XSS Testing](#)                       | SQL Injection, Reflected/Stored XSS, Input Sanitizationn  | OWASP ZAP, Browser Dev Tools, SQL, JavaScript |
+| [Bug Bounty & System Hardening](#)                       | Vulnerability Discovery, CWE Identification, System Hardening  | CWE Database, Docker, DFD, Code Inspection |
+| [Application Testing](#)                       | Functional Testing, Regression Testing, Vulnerability Remediation  | Selenium IDE, Pytest, Python, Terminal |
 
 ## 🗂️ Connect with Me
 
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter/X: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
-- 📫 Email: youremail@example.com  
-
+- Website
+- [LinkedIn](https://www.linkedin.com/in/hhyi/)
 
 
 _Thanks for visiting! Let’s build something meaningful together._ ✨
-
