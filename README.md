@@ -28,19 +28,18 @@ Cybersecurity Analyst, Product Manager, Designer. Motivated to combine AI with S
 
 | Project                         | Skill                        | Tools                   |
 |---------------------------------|------------------------------|-------------------------|
-| [MiTM Attack](#)                  | ARP Spoofing, Network Traffic Interception, Packet Analysis                | Bettercap, Wireshark |
-| [Cryptography & HTTPS Setup](#)   | Implementing SSL/TLS, Certificate Generation, Encrypted Web Traffic | OpenSSL, WSL, Docker, Nginx, Browser Dev Tools |
-| [Logging](#)                  | 	Log Management, Monitoring Login Failures, Secure Event Logging                | Loggly, Monolog, Docker, PHP, .env files |
-| [Session Management & Access Control](#)                  | Secure Authentication & Authorization, PHP Sessions vs. Cookies      | PHP, Sessions, Docker, Browser Dev Tools |
-| [Exploitation](#)                       | Payload Crafting, Reverse Shells, Offensive Security Tactics  | Metasploit, msfvenom, Docker, PHP |
-| [Injection & XSS Testing](#)                       | SQL Injection, Reflected/Stored XSS, Input Sanitizationn  | OWASP ZAP, Browser Dev Tools, SQL, JavaScript |
-| [Bug Bounty & System Hardening](#)                       | Vulnerability Discovery, CWE Identification, System Hardening  | CWE Database, Docker, DFD, Code Inspection |
-| [Application Testing](#)                       | Functional Testing, Regression Testing, Vulnerability Remediation  | Selenium IDE, Pytest, Python, Terminal |
+| [MiTM Attack](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W2-MiTM/README.md)                  | ARP Spoofing, Network Traffic Interception, Packet Analysis                | Bettercap, Wireshark |
+| [Cryptography & HTTPS Setup](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W3-Encryption/README.md)   | Implementing SSL/TLS, Certificate Generation, Encrypted Web Traffic | OpenSSL, WSL, Docker, Nginx, Browser Dev Tools |
+| [Logging](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W4-Logging/README.md)                  | 	Log Management, Monitoring Login Failures, Secure Event Logging                | Loggly, Monolog, Docker, PHP, .env files |
+| [Session Management & Access Control](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W5-Access-Control/README.md)                  | Secure Authentication & Authorization, PHP Sessions vs. Cookies      | PHP, Sessions, Docker, Browser Dev Tools |
+| [Exploitation](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W6-Offensive/README.md)                       | Payload Crafting, Reverse Shells, Offensive Security Tactics  | Metasploit, msfvenom, Docker, PHP |
+| [Injection & XSS Testing](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W7-Application-Security/README.md)                       | SQL Injection, Reflected/Stored XSS, Input Sanitizationn  | OWASP ZAP, Browser Dev Tools, SQL, JavaScript |
+| [Bug Bounty & System Hardening](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W8-Bug-Bounty/README.md)                       | Vulnerability Discovery, CWE Identification, System Hardening  | CWE Database, Docker, DFD, Code Inspection |
+| [Application Testing](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W9-Testing/README.md)                       | Functional Testing, Regression Testing, Vulnerability Remediation  | Selenium IDE, Pytest, Python, Terminal |
 
 
 ## Connect with Me
-
-Website
+[Website](https://playgroundthe.com/)
 <br>
 [LinkedIn](https://www.linkedin.com/in/hhyi/)
 
