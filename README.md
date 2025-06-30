@@ -1,6 +1,6 @@
 # 👋 Cheers, I'm Hannah.
 
-**Builder. Creator. Lifelong Learner. Motivated to combine Security with AI & Education. Welcome to my GitHub!**
+**Strategic disruptor motivated in combining Security with AI & Education. Welcome to my GitHub!**
 
 <br>
 
