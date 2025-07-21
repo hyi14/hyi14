@@ -1,6 +1,6 @@
 # 👋 Cheers, I'm Hannah.
 
-**Strategic disruptor exploring GRC and AI Policy. Welcome to my GitHub!**
+**Strategic disruptor exploring GRC and AI Policy.**
 
 <br>
 
