@@ -1,7 +1,5 @@
 # 👋 Cheers, I'm Hannah.
 
-**Strategic disruptor motivated in GRC and AI Policy.**
-
 <br>
 
 ## Toolbox
