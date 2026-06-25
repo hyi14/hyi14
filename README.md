@@ -1,5 +1,4 @@
-# 👋 Cheers, I'm Hannah.
-
+👋 Cheers, I'm Hannah.
 ## Toolbox
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" /></a>
@@ -23,10 +22,9 @@
 
 <br>
 
-## Projects  
-### Cybersecurity
+## Security Projects  
 
-| Project                         | Skill                        | Tools                   |
+| Name                         | Skill                        | Tools                   |
 |---------------------------------|------------------------------|-------------------------|
 | [MiTM Attack](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W2-MiTM/README.md)                  | ARP Spoofing, Network Traffic Interception, Packet Analysis                | Bettercap, Wireshark |
 | [Cryptography & HTTPS Setup](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W3-Encryption/README.md)   | Implementing SSL/TLS, Certificate Generation, Encrypted Web Traffic | OpenSSL, WSL, Docker, Nginx, Browser Dev Tools |
@@ -40,7 +38,7 @@
 <br>
 
 ## Let's Connect!
-[Website](#)
+[Website](https://substack.com/@hannahyii)
 <br>
 [LinkedIn](https://www.linkedin.com/in/hhyi/)
 
