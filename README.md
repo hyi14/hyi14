@@ -34,13 +34,3 @@
 | [Injection & XSS Testing](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W7-Application-Security/README.md)                       | SQL Injection, Reflected/Stored XSS, Input Sanitizationn  | OWASP ZAP, Browser Dev Tools, SQL, JavaScript |
 | [Bug Bounty & System Hardening](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W8-Bug-Bounty/README.md)                       | Vulnerability Discovery, CWE Identification, System Hardening  | CWE Database, Docker, DFD, Code Inspection |
 | [Application Testing](https://github.com/hyi14/2025-Cybersecurity-Projects/blob/W9-Testing/README.md)                       | Functional Testing, Regression Testing, Vulnerability Remediation  | Selenium IDE, Pytest, Python, Terminal |
-
-<br>
-
-## Let's Connect!
-[Website](https://substack.com/@hannahyii)
-<br>
-[LinkedIn](https://www.linkedin.com/in/hhyi/)
-
-
-Thanks for visiting! Let’s build something impactful together.🫧
