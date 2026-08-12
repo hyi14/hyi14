@@ -20,8 +20,6 @@
   <a target="_blank" href="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" style="display: inline-block;"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="30" height="30" /></a>
 </p>
 
-<br>
-
 ## Security Projects  
 
 | Name                         | Skill                        | Tools                   |
